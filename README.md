@@ -1,0 +1,1 @@
+# xp_twitter_app_adapter_pattern
